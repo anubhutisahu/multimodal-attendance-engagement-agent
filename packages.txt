@@ -1,2 +1,0 @@
-# Optional system package hints for Streamlit Community Cloud
-libsndfile1
